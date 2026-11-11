@@ -8,7 +8,9 @@ Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI 
 
 ---
 
-## Proyectos de un vistazo
+## Fase 1 · Inmersión
+
+[Agentes de IA para Negocios](https://app.aluracursos.com/immersion/certificate/252a6a08-fb63-46dc-bc4b-1c7a754150d6?lang)
 
 | # | Proyecto | Problema de negocio | Herramientas | Demo |
 |---|----------|--------------------|--------------|------|
@@ -19,7 +21,7 @@ Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI 
 
 ---
 
-## Qué muestra este portfolio
+### Qué incluye
 
 - Diseñar **pipelines de agentes** donde cada etapa tiene una misión específica, en lugar de usar la IA como una caja de texto.
 - Distinguir **chatbot, copiloto, agente con reglas de negocio y pipeline multiagente**, y elegir cuál corresponde a cada problema.
@@ -29,7 +31,7 @@ Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI 
 
 ---
 
-## 1. ARI News · Inteligencia de mercado con un pipeline de agentes
+### 1. ARI News · Inteligencia de mercado con un pipeline de agentes
 
 **Problema.** Mantenerse al día con noticias estratégicas de un sector y una región exige tiempo y suele producir resúmenes inconsistentes o con fuentes dudosas.
 
@@ -51,7 +53,7 @@ flowchart LR
 
 ---
 
-## 2. ARI Deal · Propuestas comerciales con reglas de negocio
+### 2. ARI Deal · Propuestas comerciales con reglas de negocio
 
 **Problema.** Las propuestas comerciales consumen horas, se desvían del formato de marca y pueden incluir valores incorrectos.
 
@@ -71,7 +73,7 @@ flowchart LR
 
 ---
 
-## 3. ARI Flow · Triaje y respuesta automática de correos
+### 3. ARI Flow · Triaje y respuesta automática de correos
 
 **Problema.** Consultas repetitivas que ocupan tiempo de atención y que, en su mayoría, ya están respondidas en la documentación.
 
@@ -110,7 +112,7 @@ flowchart LR
 
 | Código | Formación | Tipo | Cursos |
 |--------|-----------|------|--------|
-| G1 | Mentalidad y Estrategia | General | 1. Alfabetización en IA: Competencias esenciales y dominio crítico (6 h)<br>2. Entienda cómo aplicar el Canvas AI en la práctica (1 h)<br>3. IA en el trabajo: Productividad con asistentes y agentes (6 h) |
+| G1 | [Mentalidad y Estrategia](https://app.aluracursos.com/degree/certificate/bc94a872-1d92-4942-bb86-80001f02bab4?lang) | General | 1. [Alfabetización en IA: Competencias esenciales y dominio crítico](https://app.aluracursos.com/certificate/eeddf28a-cc25-401d-80b4-40618f403e1c?lang)<br>2. Entienda cómo aplicar el Canvas AI en la práctica<br>3. [IA en el trabajo: Productividad con asistentes y agentes](https://app.aluracursos.com/certificate/202c8bec-3796-4d96-972f-d66c4c927362?lang) |
 | G2 | Datos para los Negocios | General | 1. Toma de decisiones con IA: Optimizando estrategias con datos (10 h)<br>2. Liderazgo en la era de la IA: Fundamentos y visión estratégica (10 h)<br>3. Trabajando con datos: Fundamentos del análisis de datos (6 h) |
 | G3 | Gobernanza, Riesgo y Ética | General | 1. Gobernanza de Inteligencia Artificial: Fundamentos, riesgos y buenas prácticas (7 h)<br>2. Ética en Inteligencia Artificial: Mitigando sesgos y garantizando transparencia (6 h) |
 | T1 | IA para Ventas y Comercial | Electiva | 1. Inteligencia Artificial: Personalice estrategias de ventas con ChatGPT (6 h)<br>2. E-mail marketing: Automatización y workflows con IA (6 h)<br>3. CRM, automatizaciones e IA: Automatice procesos de ventas con inteligencia artificial (6 h) |
