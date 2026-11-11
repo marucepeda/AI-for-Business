@@ -4,7 +4,7 @@
 
 Proyectos (no-code) recorrido de **ONE AI for Business** | Oracle Next Education & Alura LATAM: desde agentes y pipelines de IA hasta automatización de procesos de negocio.
 
-> Portfolio de aprendizaje. No es un repositorio oficial de Oracle ni de Alura. Los proyectos de Fase 1 se construyeron siguiendo clases guiadas. Cada proyecto se documenta a nivel de diseño, resultado y aprendizaje.
+> Portfolio de aprendizaje. No es un repositorio oficial de Oracle ni de Alura. 
 
 ---
 
