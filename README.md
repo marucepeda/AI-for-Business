@@ -2,9 +2,9 @@
 
 **Maru Cepeda** · Business Operations | Data & Analytics · [LinkedIn](https://www.linkedin.com/in/marucepeda/)
 
-Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI for Business** | Oracle Next Education & Alura LATAM: desde agentes y pipelines de IA hasta automatización de procesos de negocio.
+Proyectos (no-code) recorrido de **ONE AI for Business** | Oracle Next Education & Alura LATAM: desde agentes y pipelines de IA hasta automatización de procesos de negocio.
 
-> Portfolio de aprendizaje independiente. No es un repositorio oficial de Oracle ni de Alura. Los tres primeros proyectos se construyeron siguiendo clases guiadas. Cada proyecto se documenta a nivel de diseño, resultado y aprendizaje.
+> Portfolio de aprendizaje. No es un repositorio oficial de Oracle ni de Alura. Los proyectos de Fase 1 se construyeron siguiendo clases guiadas. Cada proyecto se documenta a nivel de diseño, resultado y aprendizaje.
 
 ---
 
@@ -56,7 +56,7 @@ flowchart LR
     D --> E[Propuesta en Word]
 ```
 
-**Conceptos aplicados.** Diferencia entre chatbot, copiloto y agente · contexto persistente · documentos de referencia como memoria del agente · reglas de negocio explícitas · revisión humana antes de generar el documento · conversión del flujo en una skill reutilizable.
+**Conceptos.** Diferencia entre chatbot, copiloto y agente · contexto persistente · documentos de referencia como memoria del agente · reglas de negocio explícitas · revisión humana antes de generar el documento · conversión del flujo en una skill reutilizable.
 
 **Limitaciones.** Depende de la calidad de los documentos de referencia; toda propuesta requiere revisión antes de salir.
 
@@ -79,7 +79,7 @@ flowchart TD
 
 **Demo.** [Ver el escenario en Make](https://us2.make.com/public/shared-scenario/RcuIxvi6Zzh/ari-flow)
 
-**Diseño destacado.** La base de conocimiento vive en Drive: quien actualiza el documento actualiza al agente, sin tocar el flujo.
+**Diseño.** La base de conocimiento vive en Drive: quien actualiza el documento actualiza al agente, sin tocar el flujo.
 
 **Riesgos y controles.** Un agente que envía correos sin revisión puede responder o clasificar mal. Controles a considerar: revisión previa, límite de alcance, registro de respuestas, pruebas de clasificación.
 
@@ -97,7 +97,7 @@ flowchart LR
     T --> C[Challenge individual]
 ```
 
-### Resumen
+### Programa
 
 | Código | Formación | Tipo | Cursos |
 |--------|-----------|------|--------|
