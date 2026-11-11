@@ -17,7 +17,6 @@ Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI 
 | 1 | [ARI News](#1-ari-news--inteligencia-de-mercado-con-un-pipeline-de-agentes) | Vigilancia semanal de noticias del sector | Google Opal | [Abrir app](https://opal.google/app/1lLKgqjmZM90UVGhPuxGbYtsn_A3GocnH) |
 | 2 | [ARI Deal](#2-ari-deal--propuestas-comerciales-con-reglas-de-negocio) | Propuestas comerciales lentas e inconsistentes | ChatGPT Work | Proyecto privado |
 | 3 | [ARI Flow](#3-ari-flow--triaje-y-respuesta-automática-de-correos) | Atención repetitiva de consultas por email | Make · Gmail · Drive · Gemini | [Ver escenario](https://us2.make.com/public/shared-scenario/RcuIxvi6Zzh/ari-flow) |
-| 4 | [Challenge individual](#fase-2--business-ai-builder) | [Por definir] | [Por definir] | Pendiente |
 
 ---
 
@@ -133,11 +132,11 @@ flowchart LR
 
 ### Challenge individual
 
-Se documentará aquí cuando estén publicadas las bases oficiales: objetivo, criterios de entrega y entregables.
+[Challenge individual](#fase-2--business-ai-builder) | Pendiente |
 
 ---
 
-## Sobre este repositorio
+### Sobre este repo
 
 Cada proyecto documenta únicamente trabajo realizado, con sus limitaciones. Material del curso no incluido por respeto a su autoría.
 
