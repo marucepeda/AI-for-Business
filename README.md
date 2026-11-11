@@ -20,16 +20,6 @@ Proyectos prácticos sin código (no-code) que documentan recorrido de **ONE AI 
 
 ---
 
-### Qué incluye
-
-- Diseñar **pipelines de agentes** donde cada etapa tiene una misión específica, en lugar de usar la IA como una caja de texto.
-- Distinguir **chatbot, copiloto, agente con reglas de negocio y pipeline multiagente**, y elegir cuál corresponde a cada problema.
-- Dar **contexto propio** a la IA (documentos de la empresa) para reducir respuestas genéricas y alucinaciones.
-- **Automatizar con criterio:** qué se delega a la IA y qué se deriva a una persona.
-- Documentar **qué funciona, qué falló y qué falta verificar**.
-
----
-
 ### 1. ARI News · Inteligencia de mercado con un pipeline de agentes
 
 **Problema.** Mantenerse al día con noticias estratégicas de un sector y una región exige tiempo y suele producir resúmenes inconsistentes o con fuentes dudosas.
