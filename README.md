@@ -1,4 +1,4 @@
-# ONE AI for Business · Portfolio de aprendizaje
+# ONE AI for Business
 
 **Maru Cepeda** · Business Operations | Data & Analytics · [LinkedIn](https://www.linkedin.com/in/marucepeda/)
 
