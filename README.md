@@ -2,8 +2,6 @@
 
 Portfolio de proyectos desarrollados durante el programa **Oracle Next Education (ONE) & Alura LATAM**.
 
----
-
 ## Fase 1 · Inmersión
 
 [Agentes de IA para Negocios](https://app.aluracursos.com/immersion/certificate/252a6a08-fb63-46dc-bc4b-1c7a754150d6?lang)
@@ -13,8 +11,6 @@ Portfolio de proyectos desarrollados durante el programa **Oracle Next Education
 | 1 | [ARI News](#1-ari-news--inteligencia-de-mercado-con-un-pipeline-de-agentes) | Vigilancia semanal de noticias del sector | Google Opal | [Abrir app](https://opal.google/app/1lLKgqjmZM90UVGhPuxGbYtsn_A3GocnH) |
 | 2 | [ARI Deal](#2-ari-deal--propuestas-comerciales-con-reglas-de-negocio) | Propuestas comerciales lentas e inconsistentes | ChatGPT Work | Proyecto privado |
 | 3 | [ARI Flow](#3-ari-flow--triaje-y-respuesta-automática-de-correos) | Atención repetitiva de consultas por email | Make · Gmail · Drive · Gemini | [Ver escenario](https://us2.make.com/public/shared-scenario/RcuIxvi6Zzh/ari-flow) |
-
----
 
 ### 1. ARI News · Inteligencia de mercado con un pipeline de agentes
 
@@ -36,8 +32,6 @@ flowchart LR
 
 **Aprendizajes.** El problema de las **alucinaciones de enlaces** (URLs inventadas) y por qué toda fuente generada por IA debe verificarse antes de usarla.
 
----
-
 ### 2. ARI Deal · Propuestas comerciales con reglas de negocio
 
 **Problema.** Las propuestas comerciales consumen horas, se desvían del formato de marca y pueden incluir valores incorrectos.
@@ -55,8 +49,6 @@ flowchart LR
 **Conceptos.** Diferencia entre chatbot, copiloto y agente · contexto persistente · documentos de referencia como memoria del agente · reglas de negocio explícitas · revisión humana antes de generar el documento · conversión del flujo en una skill reutilizable.
 
 **Limitaciones.** Depende de la calidad de los documentos de referencia; toda propuesta requiere revisión antes de salir.
-
----
 
 ### 3. ARI Flow · Triaje y respuesta automática de correos
 
@@ -78,8 +70,6 @@ flowchart TD
 **Diseño.** La base de conocimiento vive en Drive: quien actualiza el documento actualiza al agente, sin tocar el flujo.
 
 **Riesgos y controles.** Un agente que envía correos sin revisión puede responder o clasificar mal. Controles a considerar: revisión previa, límite de alcance, registro de respuestas, pruebas de clasificación.
-
----
 
 ## Fase 2 · Business AI Builder
 
@@ -108,8 +98,6 @@ flowchart LR
 ### Challenge individual
 
 [Challenge individual](#fase-2--business-ai-builder) | En proceso |
-
----
 
 ### Sobre este repo
 
