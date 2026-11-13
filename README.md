@@ -1,10 +1,6 @@
 # ONE AI for Business
 
-**Maru Cepeda** · Business Operations | Data & Analytics · [LinkedIn](https://www.linkedin.com/in/marucepeda/)
-
-Proyectos (no-code) recorrido de **ONE AI for Business** | Oracle Next Education & Alura LATAM: desde agentes y pipelines de IA hasta automatización de procesos de negocio.
-
-> Portfolio de aprendizaje. No es un repositorio oficial de Oracle ni de Alura. 
+Portfolio de proyectos desarrollados durante el programa **Oracle Next Education (ONE) & Alura LATAM**.
 
 ---
 
@@ -109,25 +105,12 @@ flowchart LR
 | T3 | IA para RR.HH. | Electiva | 1. RR.HH. estratégico: Optimizando procesos con IA<br>2. Inteligencia Artificial en RRHH: Creando Agentes con ChatGPT<br>3. People Analytics: De la recolección de datos a la IA aplicada en RR.HH. |
 | T4 | IA para Finanzas y Operaciones | Electiva | 1. Análisis financiero eficiente: automatiza Excel con Power Query y Power Pivot<br>2. Claude para Análisis de Datos: Prompts, integraciones y automatizaciones<br>3. Gestión de Procesos: Mapeo y automatización con Lean y RPA<br>4. Make: Automatizando respuestas de clientes |
 
-### Avance
-
-- [x] G1 · Mentalidad y Estrategia
-- [x] G2 · Datos para los Negocios
-- [x] G3 · Gobernanza, Riesgo y Ética
-- [ ] T1 · IA para Ventas y Comercial
-- [ ] T2 · IA para Marketing y Contenido
-- [ ] T3 · IA para RR.HH.
-- [ ] T4 · IA para Finanzas y Operaciones
-- [ ] Challenge individual
-
 ### Challenge individual
 
-[Challenge individual](#fase-2--business-ai-builder) | Pendiente |
+[Challenge individual](#fase-2--business-ai-builder) | En proceso |
 
 ---
 
 ### Sobre este repo
-
-Cada proyecto documenta únicamente trabajo realizado, con sus limitaciones. Material del curso no incluido por respeto a su autoría.
 
 Parte del recorrido [Oracle Next Education (ONE)](https://www.oracle.com/latam/education/oracle-next-education/).
