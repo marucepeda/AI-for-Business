@@ -95,10 +95,7 @@ flowchart LR
 | T3 | IA para RR.HH. | Electiva | 1. RR.HH. estratégico: Optimizando procesos con IA<br>2. Inteligencia Artificial en RRHH: Creando Agentes con ChatGPT<br>3. People Analytics: De la recolección de datos a la IA aplicada en RR.HH. |
 | T4 | IA para Finanzas y Operaciones | Electiva | 1. Análisis financiero eficiente: automatiza Excel con Power Query y Power Pivot<br>2. Claude para Análisis de Datos: Prompts, integraciones y automatizaciones<br>3. Gestión de Procesos: Mapeo y automatización con Lean y RPA<br>4. Make: Automatizando respuestas de clientes |
 
-### Challenge individual
 
 [Challenge individual](#fase-2--business-ai-builder) | En proceso |
-
-### Sobre este repo
 
 Parte del recorrido [Oracle Next Education (ONE)](https://www.oracle.com/latam/education/oracle-next-education/).
